@@ -6,3 +6,5 @@ For this project, my partner and I conducted exploratory data analysis using Pyt
 2. Does the number of aces from the winner relative to the number of aces from the loser in a match correlate to a greater likelihood to win the match?
 3. How much has mid-match retirement or pre-match withdrawal rate changed?
 4. Within a group of players with similar match win/loss ratio, who performs better during the four majors (largest tournaments)? How much do stakes matter?
+
+Our analysis can be found in ATP_Tennis_EDA.ipynb.
